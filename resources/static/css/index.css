@@ -66,12 +66,6 @@
   position: relative;
 }
 
-/* .left-menu .left-con .dash-board .menu .menu-worker .menu-worker-sub {
-  /*대시보드 메뉴의 하위메뉴*/
-/*정렬 다시 하고 효과 줘야함
-  display: none;
-} */
-
 .left-menu .left-con .dash-board .menu>ul>li>ul {
   padding: 7px 0 0;
   box-sizing: border-box;
@@ -131,7 +125,7 @@
 
 .right-wrap {
   flex: 1;
-  padding: 10px 0;
+  padding: 10px 10px 10px 0;
   height: auto;
 }
 
